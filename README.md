@@ -4,4 +4,4 @@
 **Icons:** Candy-icons<br />
 **Cursor:** ArcMidnight-cursors<br />
 
-<img src="Ignore.png" width="400" height="250"/>
+<img src="Ignore.png" width="75%" height="50%"/>
