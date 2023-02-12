@@ -1,6 +1,7 @@
 # linux-customization
-**OS:** Fedora 37<br />
-**Distro:** Nobara<br /><br />
+**OS:** Linux<br />
+**Distro:** Fefora 37<br />
+**Flavor:** Nobara<br /><br />
 
 **Shell:** Catppuccin-Macchiato-Standard-Peach-Dark<br />
 **Legacy Applications:** Catppuccin-Mocha-BL<br />
